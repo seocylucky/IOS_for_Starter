@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		20B6439C2882B310006361A6 /* CreditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B6439B2882B310006361A6 /* CreditViewController.swift */; };
 		20B827252870964B0025DC21 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B827242870964B0025DC21 /* AppDelegate.swift */; };
 		20B827272870964B0025DC21 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B827262870964B0025DC21 /* SceneDelegate.swift */; };
 		20B827292870964B0025DC21 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B827282870964B0025DC21 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		20B6439B2882B310006361A6 /* CreditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditViewController.swift; sourceTree = "<group>"; };
 		20B827212870964B0025DC21 /* UpDownGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UpDownGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20B827242870964B0025DC21 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20B827262870964B0025DC21 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				20B827242870964B0025DC21 /* AppDelegate.swift */,
 				20B827262870964B0025DC21 /* SceneDelegate.swift */,
+				20B6439B2882B310006361A6 /* CreditViewController.swift */,
 				20B827282870964B0025DC21 /* ViewController.swift */,
 				20B8272A2870964B0025DC21 /* Main.storyboard */,
 				20B8272D2870964D0025DC21 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				20B827292870964B0025DC21 /* ViewController.swift in Sources */,
 				20B827252870964B0025DC21 /* AppDelegate.swift in Sources */,
 				20B827272870964B0025DC21 /* SceneDelegate.swift in Sources */,
+				20B6439C2882B310006361A6 /* CreditViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,6 +291,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Q4522CV3RK;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = UpDownGame/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -315,6 +320,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Q4522CV3RK;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = UpDownGame/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
